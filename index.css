@@ -1,3 +1,23 @@
-.heading{
-    color: aquamarine;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: brown;
+    background-color: blue;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+}
+div{
+    height: 1000px;
+    width: 600px;
+    background-color: chartreuse;
 }
