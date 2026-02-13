@@ -7,17 +7,18 @@ html,body{
     height: 100%;
     width: 100%;
 }
-h1{
-    color: brown;
-    background-color: blue;
-    font-size: 100px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 100;
-    font-style: italic;
-    text-align: center;
+
+#button{
+    margin: 40px;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: rebeccapurple;
+    color: green;
+    font-weight: 600;
+    border: 2px solid yellow;
+    border-radius: 20px;
 }
-div{
-    height: 1000px;
-    width: 600px;
-    background-color: chartreuse;
+button:haver{
+    background-color: gold;
+    color: blueviolet;
 }
